@@ -1,56 +1,218 @@
 [
-  {"name":"360 ONE","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/9636-360-one-ico__w60__h60__.webp"},
-  {"name":"Abakkus","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21534-abakkus-ico__w60__h60__.webp"},
-  {"name":"Aditya Birla Sun Life","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/4-aditya-birla-sl-ico__w60__h60__.webp"},
-  {"name":"AlphaGrep","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21867-alphagrep-ico__w60__h60__.webp"},
-  {"name":"Angel One","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21023-angel-one-ico__w60__h60__.webp"},
-  {"name":"ASK","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21964-ask-ico__w60__h60__.webp"},
-  {"name":"Axis","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/8799-axis-ico__w60__h60__.webp"},
-  {"name":"Bajaj Finserv","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/20129-bajaj-finserv-ico__w60__h60__.webp"},
-  {"name":"Bandhan","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/298-bandhan-ico__w60__h60__.webp"},
-  {"name":"Bank of India","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/332-bank-of-india-ico__w60__h60__.webp"},
-  {"name":"Baroda BNP Paribas","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/312-baroda-bnp-paribas-ico__w60__h60__.webp"},
-  {"name":"Canara Robeco","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/8-canara-robeco-ico__w60__h60__.webp"},
-  {"name":"Capitalmind","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21224-capitalmind-ico__w60__h60__.webp"},
-  {"name":"Choice","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21492-choice-ico__w60__h60__.webp"},
-  {"name":"DSP","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/181-dsp-ico__w60__h60__.webp"},
-  {"name":"Edelweiss","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/339-edelweiss-ico__w60__h60__.webp"},
-  {"name":"Franklin Templeton","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/28-franklin-templeton-ico__w60__h60__.webp"},
-  {"name":"Groww","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/9655-groww-ico__w60__h60__.webp"},
-  {"name":"HDFC","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/302-hdfc-ico__w60__h60__.webp"},
-  {"name":"Helios","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/20217-helios-ico__w60__h60__.webp"},
-  {"name":"HSBC","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/308-hsbc-ico__w60__h60__.webp"},
-  {"name":"ICICI Prudential","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/14-icici-prudential-ico__w60__h60__.webp"},
-  {"name":"Invesco","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/319-invesco-ico__w60__h60__.webp"},
-  {"name":"ITI","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/12232-iti-ico__w60__h60__.webp"},
-  {"name":"JioBlackRock","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21219-jioblackrock-ico__w60__h60__.webp"},
-  {"name":"JM Financial","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/19-jm-ico__w60__h60__.webp"},
-  {"name":"Kotak Mahindra","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/218-kotak-ico__w60__h60__.webp"},
-  {"name":"Lakshya","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21960-lakshya-ico__w60__h60__.webp"},
-  {"name":"LIC","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21-lic-mf-ico__w60__h60__.webp"},
-  {"name":"Mahindra Manulife","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/11141-mahindra-manulife-ico__w60__h60__.webp"},
-  {"name":"Mirae Asset","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/327-mirae-asset-ico__w60__h60__.webp"},
-  {"name":"Monarch","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/22015-monarch-ico__w60__h60__.webp"},
-  {"name":"Motilal Oswal","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/9054-motilal-oswal-ico-1__w60__h60__.webp"},
-  {"name":"Navi","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/8927-navi-ico__w60__h60__.webp"},
-  {"name":"Nippon India","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/24-nippon-india-ico__w60__h60__.webp"},
-  {"name":"NJ","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/12931-nj-ico__w60__h60__.webp"},
-  {"name":"Old Bridge","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/20419-old-bridge-ico__w60__h60__.webp"},
-  {"name":"PGIM India","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/9055-pgim-india-ico__w60__h60__.webp"},
-  {"name":"PPFAS","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/10157-ppfas-ico__w60__h60__.webp"},
-  {"name":"Quant","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/11-quant-ico__w60__h60__.webp"},
-  {"name":"Quantum","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/317-quantum-ico__w60__h60__.webp"},
-  {"name":"Samco","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/13005-samco-mf-ico__w60__h60__.webp"},
-  {"name":"SBI","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/25-sbi-ico__w60__h60__.webp"},
-  {"name":"Shriram","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/26-shriram-ico__w60__h60__.webp"},
-  {"name":"Sundaram","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/187-sundaram-ico__w60__h60__.webp"},
-  {"name":"Tata","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/27-tata-ico__w60__h60__.webp"},
-  {"name":"Taurus","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/10-taurus-ico__w60__h60__.webp"},
-  {"name":"The Wealth Company","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21362-the-wealth-company-ico__w60__h60__.webp"},
-  {"name":"TRUST","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/12751-trustmf-ico__w60__h60__.webp"},
-  {"name":"Unifi","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/21080-unifi-ico__w60__h60__.webp"},
-  {"name":"Union","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/9521-union-ico__w60__h60__.webp"},
-  {"name":"UTI","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/311-uti-ico__w60__h60__.webp"},
-  {"name":"WhiteOak Capital","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/12160-whiteoak-capital-ico__w60__h60__.webp"},
-  {"name":"Zerodha","url":"https://www.valueresearchonline.com/content-assets/images/amc-logo/20245-zerodha-ico__w60__h60__.webp"}
+  {
+    "name": "360 ONE",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/9636-360-one-ico.webp"
+  },
+  {
+    "name": "Abakkus",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21534-abakkus-ico.webp"
+  },
+  {
+    "name": "Aditya Birla Sun Life",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/4-aditya-birla-sl-ico.webp"
+  },
+  {
+    "name": "AlphaGrep",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21867-alphagrep-ico.webp"
+  },
+  {
+    "name": "Angel One",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21023-angel-one-ico.webp"
+  },
+  {
+    "name": "ASK",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21964-ask-ico.webp"
+  },
+  {
+    "name": "Axis",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/8799-axis-ico.webp"
+  },
+  {
+    "name": "Bajaj Finserv",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/20129-bajaj-finserv-ico.webp"
+  },
+  {
+    "name": "Bandhan",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/298-bandhan-ico.webp"
+  },
+  {
+    "name": "Bank of India",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/332-bank-of-india-ico.webp"
+  },
+  {
+    "name": "Baroda BNP Paribas",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/312-baroda-bnp-paribas-ico.webp"
+  },
+  {
+    "name": "Canara Robeco",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/8-canara-robeco-ico.webp"
+  },
+  {
+    "name": "Capitalmind",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21224-capitalmind-ico.webp"
+  },
+  {
+    "name": "Choice",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21492-choice-ico.webp"
+  },
+  {
+    "name": "DSP",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/181-dsp-ico.webp"
+  },
+  {
+    "name": "Edelweiss",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/339-edelweiss-ico.webp"
+  },
+  {
+    "name": "Franklin Templeton",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/28-franklin-templeton-ico.webp"
+  },
+  {
+    "name": "Groww",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/9655-groww-ico.webp"
+  },
+  {
+    "name": "HDFC",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/302-hdfc-ico.webp"
+  },
+  {
+    "name": "Helios",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/20217-helios-ico.webp"
+  },
+  {
+    "name": "HSBC",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/308-hsbc-ico.webp"
+  },
+  {
+    "name": "ICICI Prudential",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/14-icici-prudential-ico.webp"
+  },
+  {
+    "name": "Invesco",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/319-invesco-ico.webp"
+  },
+  {
+    "name": "ITI",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/12232-iti-ico.webp"
+  },
+  {
+    "name": "JioBlackRock",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21219-jioblackrock-ico.webp"
+  },
+  {
+    "name": "JM Financial",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/19-jm-ico.webp"
+  },
+  {
+    "name": "Kotak Mahindra",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/218-kotak-ico.webp"
+  },
+  {
+    "name": "Lakshya",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21960-lakshya-ico.webp"
+  },
+  {
+    "name": "LIC",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21-lic-mf-ico.webp"
+  },
+  {
+    "name": "Mahindra Manulife",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/11141-mahindra-manulife-ico.webp"
+  },
+  {
+    "name": "Mirae Asset",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/327-mirae-asset-ico.webp"
+  },
+  {
+    "name": "Monarch",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/22015-monarch-ico.webp"
+  },
+  {
+    "name": "Motilal Oswal",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/9054-motilal-oswal-ico-1.webp"
+  },
+  {
+    "name": "Navi",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/8927-navi-ico.webp"
+  },
+  {
+    "name": "Nippon India",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/24-nippon-india-ico.webp"
+  },
+  {
+    "name": "NJ",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/12931-nj-ico.webp"
+  },
+  {
+    "name": "Old Bridge",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/20419-old-bridge-ico.webp"
+  },
+  {
+    "name": "PGIM India",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/9055-pgim-india-ico.webp"
+  },
+  {
+    "name": "PPFAS",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/10157-ppfas-ico.webp"
+  },
+  {
+    "name": "Quant",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/11-quant-ico.webp"
+  },
+  {
+    "name": "Quantum",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/317-quantum-ico.webp"
+  },
+  {
+    "name": "Samco",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/13005-samco-mf-ico.webp"
+  },
+  {
+    "name": "SBI",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/25-sbi-ico.webp"
+  },
+  {
+    "name": "Shriram",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/26-shriram-ico.webp"
+  },
+  {
+    "name": "Sundaram",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/187-sundaram-ico.webp"
+  },
+  {
+    "name": "Tata",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/27-tata-ico.webp"
+  },
+  {
+    "name": "Taurus",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/10-taurus-ico.webp"
+  },
+  {
+    "name": "The Wealth Company",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21362-the-wealth-company-ico.webp"
+  },
+  {
+    "name": "TRUST",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/12751-trustmf-ico.webp"
+  },
+  {
+    "name": "Unifi",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/21080-unifi-ico.webp"
+  },
+  {
+    "name": "Union",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/9521-union-ico.webp"
+  },
+  {
+    "name": "UTI",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/311-uti-ico.webp"
+  },
+  {
+    "name": "WhiteOak Capital",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/12160-whiteoak-capital-ico.webp"
+  },
+  {
+    "name": "Zerodha",
+    "url": "https://raw.githubusercontent.com/vickynagarbhavarlal/Mutual-Funds/main/amc-logos/20245-zerodha-ico.webp"
+  }
 ]
